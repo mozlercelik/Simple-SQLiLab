@@ -16,8 +16,7 @@ function Filtre($value){
     $resultOne      = trim($value);
     $resultTwo      = str_replace("#", "", $resultOne);
     $resultThree    = str_replace("sleep", "", mb_strtolower($resultTwo));
-    $resultFour     = str_replace("and", "", mb_strtolower($resultThree));
-    $result         = $resultFour;
+    $result         = $resultThree;
     return $result;
 }
 ?>
