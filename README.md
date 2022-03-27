@@ -5,3 +5,5 @@ You can check the information you have obtained by solving the given questions.
 ## Installation
 First you should download files.
 Then move the files on your (local) server. Transfer the sql file under the sql_database folder to your database server.
+
+![Usage 1](https://i.hizliresim.com/bsap8pj.png)
